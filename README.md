@@ -10,5 +10,7 @@ Usage so far:
 $ sudo dockerd
 $ docker-compose up --build ai-trading-system
 ```
+ORIGINAL ARTICLE: 
+https://towardsdatascience.com/how-to-create-a-fully-automated-ai-based-trading-system-with-python-708503c1a907
 
 Stay tuned!
